@@ -376,11 +376,10 @@ p.glbComentarios-disclaimer {
     justify-content: center;
     align-items: center;
     padding: 10px;
-    background-color: #fff;
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: #ffffff;
+    background-color: #f3f3f3;
     flex-direction: row;
 }
 
